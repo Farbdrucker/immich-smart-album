@@ -13,7 +13,7 @@ cp .env.example .env
 **.env**
 ```
 IMMICH_API_KEY=your-api-key
-IMMICH_URL=http://192.168.178.98:2283/api
+IMMICH_URL=http://your-immich-ip:port/api
 ```
 
 ## Configuration
